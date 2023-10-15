@@ -1,0 +1,21 @@
+C:\Users\MSI\source\repos\Demo2\Demo2\bin\Debug\Demo2.exe.config
+C:\Users\MSI\source\repos\Demo2\Demo2\bin\Debug\Demo2.exe
+C:\Users\MSI\source\repos\Demo2\Demo2\bin\Debug\Demo2.pdb
+C:\Users\MSI\source\repos\Demo2\Demo2\obj\Debug\Demo2.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Demo2\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Demo2\Demo2\obj\Debug\Demo2.exe
+C:\Users\MSI\source\repos\Demo2\Demo2\obj\Debug\Demo2.pdb
+D:\source c#\repos\Demo2\Demo2\bin\Debug\Demo2.exe.config
+D:\source c#\repos\Demo2\Demo2\bin\Debug\Demo2.exe
+D:\source c#\repos\Demo2\Demo2\bin\Debug\Demo2.pdb
+D:\source c#\repos\Demo2\Demo2\obj\Debug\Demo2.csproj.AssemblyReference.cache
+D:\source c#\repos\Demo2\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\source c#\repos\Demo2\Demo2\obj\Debug\Demo2.exe
+D:\source c#\repos\Demo2\Demo2\obj\Debug\Demo2.pdb
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\bin\Debug\Demo2.exe.config
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\bin\Debug\Demo2.exe
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\bin\Debug\Demo2.pdb
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\obj\Debug\Demo2.csproj.AssemblyReference.cache
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\obj\Debug\Demo2.exe
+D:\source c#\repos\DuongTatDanh-CaoNguyen-DinhYangPhiet\Demo2\obj\Debug\Demo2.pdb

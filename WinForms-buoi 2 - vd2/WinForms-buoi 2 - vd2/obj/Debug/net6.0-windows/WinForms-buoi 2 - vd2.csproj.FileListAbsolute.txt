@@ -1,0 +1,17 @@
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\bin\Debug\net6.0-windows\WinForms-buoi 2 - vd2.exe
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\bin\Debug\net6.0-windows\WinForms-buoi 2 - vd2.deps.json
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\bin\Debug\net6.0-windows\WinForms-buoi 2 - vd2.runtimeconfig.json
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\bin\Debug\net6.0-windows\WinForms-buoi 2 - vd2.dll
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\bin\Debug\net6.0-windows\WinForms-buoi 2 - vd2.pdb
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms_buoi_2___vd2.Form1.resources
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms_buoi_2___vd2.Properties.Resources.resources
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.csproj.GenerateResource.cache
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.AssemblyInfoInputs.cache
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.AssemblyInfo.cs
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.csproj.CoreCompileInputs.cache
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.dll
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\refint\WinForms-buoi 2 - vd2.dll
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.pdb
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\WinForms-buoi 2 - vd2.genruntimeconfig.cache
+D:\source c#\repos\WinForms-buoi 2 - vd2\WinForms-buoi 2 - vd2\obj\Debug\net6.0-windows\ref\WinForms-buoi 2 - vd2.dll

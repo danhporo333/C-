@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\Ket noi database.exe.config
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\Ket noi database.exe
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\Ket noi database.pdb
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\EntityFramework.dll
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\EntityFramework.xml
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket_noi_database.Form1.resources
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket_noi_database.Properties.Resources.resources
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.csproj.CopyComplete
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.exe
+C:\Users\MSI\source\repos\Ket noi database\Ket noi database\obj\Debug\Ket noi database.pdb

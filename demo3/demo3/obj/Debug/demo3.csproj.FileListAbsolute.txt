@@ -1,0 +1,7 @@
+D:\source c#\repos\demo3\demo3\bin\Debug\demo3.exe.config
+D:\source c#\repos\demo3\demo3\bin\Debug\demo3.exe
+D:\source c#\repos\demo3\demo3\bin\Debug\demo3.pdb
+D:\source c#\repos\demo3\demo3\obj\Debug\demo3.csproj.AssemblyReference.cache
+D:\source c#\repos\demo3\demo3\obj\Debug\demo3.csproj.CoreCompileInputs.cache
+D:\source c#\repos\demo3\demo3\obj\Debug\demo3.exe
+D:\source c#\repos\demo3\demo3\obj\Debug\demo3.pdb
